@@ -9,6 +9,7 @@ public class City {
         this.province = province;
     }
 
+    //checking commit
     public String getCityName(){
         return this.city;
     }
